@@ -1,0 +1,1 @@
+{"command_timeout":5,"template_folder":"Utils/templates","templates_pairs":[["{{youtube}}","echo *Hello youtube*"],["{{heading}}","echo **This is the heading**"],["{{python}}","Y:\\Docket\\Utils\\templates_python\\youtube.py"]],"locale":"en"}

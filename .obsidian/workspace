@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "50b70ed783f88251",
+        "id": "409f68532e39d887",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "regex/Grep.md",
+            "file": "Utils/Workbench.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "regex/Grep.md",
+                "file": "Utils/Workbench.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,18 +96,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "regex/Grep.md",
-    "regex/Untitled.md",
-    "javascript/react/getting-started/3.Github Cards App.md",
-    "javascript/react/getting-started/Untitled.md",
-    "javascript/react/BookList.md",
-    "javascript/react/getting-started/1.One-way Data Flow.md",
-    "javascript/react/getting-started/One-way Data Flow.md",
-    "javascript/react/hooks/useStates.md",
-    "javascript/react/hooks/useEffect.md",
-    "javascript/react/react-js.md"
+    "Utils/Workbench.md",
+    "Utils/templates/Untitled.md",
+    "Workbench.md",
+    "Utils/templates/test.md",
+    "Untitled.md",
+    "Markdown Example.md",
+    "Docket.md",
+    "README.md",
+    "Untitled 1.md",
+    "Heading IDs.md"
   ]
 }
