@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "409f68532e39d887",
+        "id": "cd22051177f2bb58",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Utils/Workbench.md",
+            "file": "Houdini/Houdini Template.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Solver",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utils/Workbench.md",
+                "file": "Houdini/Houdini Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Utils/Workbench.md",
+    "Houdini/Houdini Template.md",
+    "Utils/Markdown Example.md",
+    "Houdini/Untitled.md",
+    "Houdini/Controlling Flip.md",
     "Utils/templates/Untitled.md",
-    "Workbench.md",
-    "Utils/templates/test.md",
-    "Untitled.md",
-    "Markdown Example.md",
     "Docket.md",
-    "README.md",
-    "Untitled 1.md",
-    "Heading IDs.md"
+    "Controlling Flip.md",
+    "Heading IDs.md",
+    "Utils/Workbench.md",
+    "Houdini/Controlling Flip/index.md"
   ]
 }
