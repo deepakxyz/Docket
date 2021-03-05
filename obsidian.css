@@ -140,3 +140,10 @@ body:not(.is-grabbing) .nav-file-title:hover .nav-folder-collapse-indicator, bod
 .graph-view.color-line-highlight {
     color: #554b86;
 }
+
+
+
+/* custome */
+img {
+    border-radius: 7px;
+}

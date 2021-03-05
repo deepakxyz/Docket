@@ -5,3 +5,16 @@ Created on: 2021-03-02
 ___________________________________
 # Controlling Flip
 *Controlling flip fluid with custome fluids*
+<div id="new">
+
+![[dopnet1.png]]
+![[geometry_spreadsheet.png]]
+	<p>deepak</p>
+</div>
+
+
+<div id="new">
+	
+![[dopnet1.png]]
+	
+</div>

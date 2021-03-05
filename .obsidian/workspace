@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "dfe3095693b4dc39",
+        "id": "a4f652a31dedc5bd",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Houdini/Houdini Template.md",
-            "mode": "source"
+            "file": "Utils/Markdown Example.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Houdini/Houdini Template.md",
+                "file": "Utils/Markdown Example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Houdini/Houdini Template.md",
-    "Utils/templates/heading.md",
     "Utils/Markdown Example.md",
-    "Houdini/Untitled.md",
     "Houdini/Controlling Flip.md",
-    "Utils/templates/Untitled.md",
+    "Houdini/Houdini Template.md",
+    "Utils/Workbench.md",
+    "deepak.md",
     "Docket.md",
-    "Controlling Flip.md",
-    "Heading IDs.md",
-    "Utils/Workbench.md"
+    "Utils/templates/heading.md",
+    "Utils/templates/python.md",
+    "Houdini/Untitled.md",
+    "Utils/templates/Untitled.md"
   ]
 }
