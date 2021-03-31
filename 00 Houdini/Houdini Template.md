@@ -26,7 +26,7 @@ Houdini’s power is based on **procedural workflows**. Working in Houdini invol
 ## Nodes and networks
 
 Houdini lets you work in the 3D view using the shelf tools without having to worry about nodes and networks. However, an understanding of networks is essential of getting th most out of Houdini.
-![network_editor](img/network_editor.jpg)
+![network_editor](network_editor.jpg)
 
 Houdini’s networks are like a computer’s file system, where networks are like folders and nodes are like files. Nodes can be _subnetworks_ that contain other nodes.
 
@@ -40,7 +40,7 @@ Houdini’s [user interface](https://www.sidefx.com/docs/houdini/basics/ui.html)
 
 Each node has a user interface of settings called _parameters_ you can edit in the parameter editor pane to change the function of the node.
 
-![parms](img/parms.png)
+![parms](parms.png)
 
 ## Geometry and attributes
 Houdini supports different types of geometry, such as polygons, NURBS and Bézier, geometric primitives such as circles and spheres, metaballs. Houdini refers to each "piece" of geometry of any of these types as a _primitive_. For example, a polygon face is a primitive, a polygonal curve is a primitive, a metaball is a primitive.
@@ -55,7 +55,7 @@ Much of the information that makes up a scene is stored in _attributes_, hidden 
 
 You can always view the actual attribute values on geometry in Houdini using the [geometry spreadsheet](https://www.sidefx.com/docs/houdini/ref/panes/geosheet.html).
 
-![geometry_spreadsheet.png](img/geometry_spreadsheet.png)
+![geometry_spreadsheet.png](geometry_spreadsheet.png)
 ![[houdini_p.png]]
 
 

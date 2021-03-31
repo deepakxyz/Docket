@@ -1,11 +1,4 @@
 # Docket
+Software documentation and code snippets.
+> Download obsidian to view the full content.
 
-Software documentation that inclueds code snippets.
-
-## Structure
-
-- General
-	- project_name
-- Houdini
-	- project_name
-- Maya
