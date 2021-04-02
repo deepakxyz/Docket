@@ -1,1 +1,1 @@
-{"command_timeout":5,"template_folder":"Utils/templates","templates_pairs":[["{{youtube}}","echo *Hello youtube*"],["{{heading}}","Z:\\Docket\\Utils\\templates_python\\heading.py"],["{{python}}","Y:\\Docket\\Utils\\templates_python\\youtube.py"],["",""]],"locale":"en"}
+{"command_timeout":5,"template_folder":"Utils/templates","templates_pairs":[["{{youtube}}","echo *Hello youtube*"],["{{heading}}","Z:\\Docket\\Utils\\templates_python\\heading.py"],["{{python}}",""],["{{save_image}}","Z:\\Docket\\Utils\\templates_python\\save_image.py"]],"locale":"en"}
