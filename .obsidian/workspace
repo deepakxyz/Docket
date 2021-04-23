@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e34b12bf6191092e",
+        "id": "4a985a44c79d31cc",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00 Houdini/TemplateTest.md",
+            "file": "00 Houdini/Vex.md",
             "mode": "source"
           }
         }
@@ -40,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Solver",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,10 +68,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Houdini/TemplateTest.md",
+                "file": "00 Houdini/Vex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -96,19 +97,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 238,
     "collapsed": true
   },
+  "active": "4a985a44c79d31cc",
   "lastOpenFiles": [
-    "00 Houdini/TemplateTest.md",
-    "Source/img/shot_210403_013159.png",
-    "Source/img/shot_210403_012933.png",
-    "Source/img/shot_210403_012445.png",
-    "Source/img/shot_210403_012426.png",
-    "Utils/templates/save_image.md",
-    "Utils/templates/python.md",
-    "Utils/templates/heading.md",
-    "Utils/templates/Untitled.md",
-    "00 Houdini/Untitled.md"
+    "00 Houdini/Vex.md",
+    "00 Houdini/Untitled.md",
+    "00 Houdini/Houdini Template.md",
+    "00 Houdini/Maya to Houdini Alembic.md",
+    "00 Houdini/Controlling Flip.md",
+    "01 Piper/dash-fx.md",
+    "03 Maya/Custom Attribute Export form Maya to Houdini.md",
+    "03 Maya/MEL.md",
+    "04 General/ACES Convertion.md",
+    "03 Maya/Untitled.md"
   ]
 }
