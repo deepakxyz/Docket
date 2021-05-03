@@ -1,4 +1,12 @@
+# Vex - Houdini
+- [[Curve Banking]]
+- [[Create Line SOP]]
+- [[Create Line along Normal]]
+
+
+
 ## Make a point at the center of each primitives
+Tag : #vex-point #vex-add-point
 ### Simple Method.
 Run it over primitive.
 ```javascript
@@ -31,43 +39,27 @@ addpoint(0,center);
 
 
 ## Create a point at the center of the object
+Tag: #vex-add-point
+
 Run it over Detailed
 ```javascript
 addpoint(0,getbbox_center(1)); // connet it to the second input of the wrangle node
 ```
 
-## Line Sop using Wrangle node
-Run it over Detailed.
+
+
+# Expressions
+
+### Select point 0 at the line
+Tag: #vex-select
+Run it over *Group Expression*
 ```javascript
-int pointCount = chi('Points');
-int points[];
-
-// increase the array size
-resize(points, pointCount);
-
-
-for (int i =0; i < pointCount; i++){
-    vector direction = fit01(chv('Direction'),{0,0,0},{1,1,1});
-    float length = chf('Length');
-    vector origin = chv('Origin');
-    vector P = set((i*direction.x*length) + origin.x,
-                    (i*direction.y*length) + origin.y,
-                    (i*direction.z*length) + origin.z);
-
-    int pointId = addpoint(0, P);
-    points[i] = pointId;
-}
-
-addprim(0, "polyline", points);
+vertexprimindex(0,@ptnum)==0
 ```
 
-### Adding all the point to a prim
+### Delete some percent of tha point
+Tag: #vex-select
+Run over group by expression
 ```javascript
-int points[];
-resize(points, @numpt);
-for(int i=0; i < @numpt; i++){
-    points[i] = i;
-    }
-
-addprim(0,"polyline",points);
+rand(@primnum+234)>0.5; // 50 percent of the prim
 ```
